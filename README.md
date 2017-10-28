@@ -27,6 +27,10 @@ The fact sheet describes an overview of Santa Clara University and gives details
 
 https://docs.google.com/document/d/1eJQeL6HtdlleGvD55ReBhAsg0__G0ohv_4GdPzc0roM/edit?usp=sharing (Link to google slide can also be found at the bottom of the fact sheet.)
 
+# Walkthrough for Recruiters
+
+Santa Clara University is located at the heart of Silicon valley. Saying that obviously there are lot of job opportunities available for talented University graduates. Why look any further than Santa Clara University? Its MSIS program is ranked 26th nationally and students with highest academic credentials are admitted into the program. For more details on the talent pool, please refer the link below.
+
 # Santa Clara University at a Glance
 
 https://public.tableau.com/profile/garima8871#!/vizhome/SantaClaraUniversityataGlance/Story1?publish=yes
