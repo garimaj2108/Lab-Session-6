@@ -33,4 +33,4 @@ Santa Clara University is located at the heart of Silicon valley. Saying that ob
 
 # Santa Clara University at a Glance
 
-https://public.tableau.com/profile/garima8871#!/vizhome/SantaClaraUniversityataGlance-1/Story1?publish=yes
+https://public.tableau.com/profile/garima8871#!/vizhome/SantaClaraUniversityataGlance-2/Story1?publish=yes
